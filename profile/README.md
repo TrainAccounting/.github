@@ -26,7 +26,7 @@ Frontend ведется на React, для БД используется Postgre
 ![image](./images/Schet.png)
 
 ### Добавление кредита
-![image](./images/Credit.png)
+![image](./images/Credit1.png)
 
 ### Создание транзакции 
 ![image](./images/Transactions.png)
